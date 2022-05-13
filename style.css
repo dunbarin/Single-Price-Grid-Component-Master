@@ -1,0 +1,94 @@
+
+body {
+    background-color: hsl(204, 43%, 93%);
+    justify-content: center;
+    align-items: center;
+    width: -50% 50%;
+    height: auto;
+    margin: 16%;
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+}
+
+.body-content{
+    background-color: white;
+    padding: 25px 40px;
+    text-align: left;
+    position: fixed;
+    border-radius: 10px 10px 0 0;
+}
+
+.flexside1{
+    background-color: hsl(179, 62%, 43%);
+    position: absolute;
+    padding: 30px 30px 45px 30px;
+    margin-top: 24px;
+    margin-left: -40px;
+    width:40%;
+    height: 80%;
+    text-align: left;
+    border-radius: 0 0 0 10px;
+    color: hsl(204, 43%, 93%);
+    line-height: 20px;
+    font-family: 'Karla', sans-serif;
+    
+}
+
+
+.Why-us{
+    position: absolute;
+    margin-top: -212px;
+    margin-left: 268px;
+    width: 66%;
+    height: 92%;
+    background-color:hsl(179, 51%, 53%);
+    padding: 10px 50px;
+    line-height: 2px;
+    border-radius:0 0 10px 0;
+    color: hsl(204, 43%, 93%);
+    font-family: 'Karla', sans-serif;
+}
+
+button{
+    background-color:hsl(71, 73%, 54%);
+    border-radius: 5px;
+    border: none;
+    box-shadow: 1px 1px 3px  rgb(61, 56, 56);
+    width: 230px;
+    height: 45px;
+    color: white;
+    font-weight: 900;
+    font-family: 'Karla', sans-serif;
+}
+
+h1 {
+    color: hsl(179, 61%, 40%) ;
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    text-shadow:1px 1px 1px  hsl(179, 61%, 40%); 
+    outline: none;   
+}
+
+h2 {
+    color:hsl(71, 73%, 54%);
+    line-height: 30px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 400;
+    
+}
+
+h3{
+    color: hsl(218, 22%, 67%);
+    font-weight: 300;
+    line-height: 8px;
+    font-family: 'Karla', sans-serif;
+    line-height: 2px;
+    text-shadow: 1px 1px 1px hsl(218, 22%, 67%);
+    outline: none;
+}
+
+h4{
+    line-height: 20px;
+}
